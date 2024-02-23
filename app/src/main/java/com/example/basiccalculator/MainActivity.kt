@@ -2,11 +2,8 @@ package com.example.basiccalculator
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.widget.Button
-import android.widget.TextView
 import com.example.basiccalculator.databinding.ActivityMainBinding
 import net.objecthunter.exp4j.ExpressionBuilder
-import kotlin.math.min
 
 class MainActivity : AppCompatActivity() {
     // binding
